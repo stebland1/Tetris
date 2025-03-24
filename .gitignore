@@ -1,0 +1,15 @@
+# Build directories
+build/
+
+# Temporary files
+.cache/
+.tmp/
+*.log
+*.bak
+*~
+*.rej
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
